@@ -1,3 +1,4 @@
+![](img/2.png)
 ## **🪙 Conversor de moedas em tempo real 🪙**
 ## **📖 Introdução**
 Este projeto é um conversor de moeda em tempo real!
