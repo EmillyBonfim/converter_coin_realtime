@@ -39,11 +39,9 @@ Após a conversão o resultado sera apresentado no final do fomulário indicando
 
 <br>
  
-## Referência
+## **🔎 Referência**
 
-* []()
-* [Mdn Web Docs](https://developer.mozilla.org/pt-BR/)
-
+[Mdn Web Docs](https://developer.mozilla.org/pt-BR/)
 
 ##
 
