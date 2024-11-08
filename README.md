@@ -7,20 +7,16 @@ Ele utiliza uma **API** para apresentar sempre dados atualizados e recentes do p
 ## **⚙️ Funcionalidades**
 * **Entrada de Valor:** 
 O usuário terá a opção de inserir o valor que deseja converter.
-<br>
-<br>
+
 * **Seleção de Moedas:** 
 O sistema permitirá que o usuário escolha a moeda de origem e a moeda de destino a partir de uma lista de opções, como Dólar, Euro e Real.
-<br>
-<br>
+
 * **Conversão em tempo real:**
  O sistema fará a conversão usando uma API de câmbio (definida previamente no código pela ExchangeRate-API) e mostrará o valor convertido mais atualizado da moeda selecionada pelo usuário.
-<br>
-<br>
+
 * **Reset:**
-O usuário terá a opção de ajustar o valor e as escolhas de moedas para efetuar uma nova conversão.
-<br>
-<br>
+O usuário terá a opção de ajustar o valor e as escolhas de moedas para efetuar uma nova conversã
+
 * **Exibição de resultados**
 Após a conversão o resultado sera apresentado no final do fomulário indicando a moeda escolhida e convertida e com o valor atulizado em tempo real.
 
