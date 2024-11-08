@@ -41,12 +41,10 @@ document.getElementById('currency-form').addEventListener('submit', async functi
 
     if(exchangeRate){
         const convertedValue = valor * exchangeRate; // Guarda o resultado
-
-        // console.log(convertedValue);
-
         const conversao = document.getElementById('conversao'); 
         conversao.textContent = `Resultado: ${convertedValue.toFixed(2)} ${paraMoeda}`;
 
+        // console.log(convertedValue);
         // Configura o botão para executar a conversão 
 
     } else{
