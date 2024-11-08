@@ -133,7 +133,8 @@ Esse código permite que o usuário insira um valor e escolha duas moedas para r
 <br>
  
 ## **🔎 Referência**
-
+[ChatGPT](https://chatgpt.com/)
+<br>
 [Mdn Web Docs](https://developer.mozilla.org/pt-BR/)
 
 ##
